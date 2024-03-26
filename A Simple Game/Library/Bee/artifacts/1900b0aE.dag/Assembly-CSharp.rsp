@@ -390,6 +390,7 @@
 -analyzer:"C:/Games/Unity 2023.2.7f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Input/PlayerInput.cs"
 "Assets/Scripts/InputManager.cs"
+"Assets/Scripts/PlayerLook.cs"
 "Assets/Scripts/PlayerMotor.cs"
 -langversion:9.0
 
